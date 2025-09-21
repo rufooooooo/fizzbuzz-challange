@@ -1,6 +1,6 @@
 # 🐍 FizzBuzz Python Implementation
 
-A clean and efficient Python solution to the classic FizzBuzz programming interview question.
+A clean and efficient Python solution to the classic FizzBuzz programming question.
 
 ## 🎯 What is FizzBuzz?
 FizzBuzz is a common coding test where:
