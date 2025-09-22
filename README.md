@@ -11,4 +11,4 @@ An interactive Python game that puts a detective spin on the classic FizzBuzz ch
 
 ## How to Play
 ```bash
-python fizzbuzz_mystery.py
+python fizzbuzz.py
